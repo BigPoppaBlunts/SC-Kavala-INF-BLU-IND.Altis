@@ -1204,7 +1204,7 @@ class Mission
 						};
 						class Item3
 						{
-							value="hintC ""You are leaving the battlefield. Turn back before its too late!""";
+							value="hintC ""You have left the battlefield and will be known as a deserter!"" ";
 							parentCls="ModuleZoneRestriction_F";
 							typeName="CustomEffectWarning";
 						};
